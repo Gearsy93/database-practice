@@ -1,0 +1,20 @@
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Data Grid View\Data Grid View\bin\Debug\Data Grid View.exe.config
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Data Grid View\Data Grid View\bin\Debug\Data Grid View.exe
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Data Grid View\Data Grid View\bin\Debug\Data Grid View.pdb
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Data Grid View\Data Grid View\obj\Debug\Data Grid View.csprojAssemblyReference.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Data Grid View\Data Grid View\obj\Debug\Data_Grid_View.FormMain.resources
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Data Grid View\Data Grid View\obj\Debug\Data_Grid_View.Properties.Resources.resources
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Data Grid View\Data Grid View\obj\Debug\Data Grid View.csproj.GenerateResource.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Data Grid View\Data Grid View\obj\Debug\Data Grid View.csproj.CoreCompileInputs.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Data Grid View\Data Grid View\obj\Debug\Data Grid View.exe
+Z:\Users\kolya59\Yandex.Disk.localized\Projects\Data Grid View\Data Grid View\obj\Debug\Data Grid View.pdb
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\УП\Лаба View\Data Grid View\Data Grid View\bin\Debug\Data Grid View.exe.config
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\УП\Лаба View\Data Grid View\Data Grid View\bin\Debug\Data Grid View.exe
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\УП\Лаба View\Data Grid View\Data Grid View\bin\Debug\Data Grid View.pdb
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\УП\Лаба View\Data Grid View\Data Grid View\obj\Debug\Data Grid View.csprojAssemblyReference.cache
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\УП\Лаба View\Data Grid View\Data Grid View\obj\Debug\Data_Grid_View.FormMain.resources
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\УП\Лаба View\Data Grid View\Data Grid View\obj\Debug\Data_Grid_View.Properties.Resources.resources
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\УП\Лаба View\Data Grid View\Data Grid View\obj\Debug\Data Grid View.csproj.GenerateResource.cache
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\УП\Лаба View\Data Grid View\Data Grid View\obj\Debug\Data Grid View.csproj.CoreCompileInputs.cache
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\УП\Лаба View\Data Grid View\Data Grid View\obj\Debug\Data Grid View.exe
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\УП\Лаба View\Data Grid View\Data Grid View\obj\Debug\Data Grid View.pdb

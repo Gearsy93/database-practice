@@ -1,0 +1,111 @@
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\TreeView.exe.config
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\TreeView.exe
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\TreeView.pdb
+C:\Users\Gearsy\source\repos\TreeView\TreeView\obj\Debug\TreeView.csproj.AssemblyReference.cache
+C:\Users\Gearsy\source\repos\TreeView\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\Users\Gearsy\source\repos\TreeView\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+C:\Users\Gearsy\source\repos\TreeView\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\Users\Gearsy\source\repos\TreeView\TreeView\obj\Debug\TreeView.exe
+C:\Users\Gearsy\source\repos\TreeView\TreeView\obj\Debug\TreeView.pdb
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\Npgsql.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Buffers.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Memory.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Text.Json.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Threading.Channels.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.ValueTuple.dll
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\Npgsql.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Buffers.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Memory.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Text.Json.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Threading.Channels.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\bin\Debug\System.ValueTuple.xml
+C:\Users\Gearsy\source\repos\TreeView\TreeView\obj\Debug\TreeView.MainForm.resources
+C:\Users\Gearsy\source\repos\TreeView\TreeView\obj\Debug\TreeView.csproj.CopyComplete
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\TreeView.exe.config
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\TreeView.exe
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\TreeView.pdb
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\Npgsql.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Buffers.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Memory.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Text.Json.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Threading.Channels.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.ValueTuple.dll
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\Npgsql.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Buffers.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Memory.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Text.Json.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Threading.Channels.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.ValueTuple.xml
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.csprojAssemblyReference.cache
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.MainForm.resources
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.csproj.CopyComplete
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.exe
+C:\Users\Pists\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.pdb
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\TreeView.exe.config
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\TreeView.exe
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\TreeView.pdb
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\Npgsql.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Buffers.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Memory.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Text.Json.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Threading.Channels.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.ValueTuple.dll
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\Npgsql.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Buffers.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Memory.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Text.Json.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Threading.Channels.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\bin\Debug\System.ValueTuple.xml
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.csproj.AssemblyReference.cache
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.MainForm.resources
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.csproj.CopyComplete
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.exe
+C:\Users\Gearsy\Documents\OneDrive\Документы\7 Трим\БД\Лаб_1 Дерево\TreeView\TreeView\obj\Debug\TreeView.pdb
